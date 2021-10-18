@@ -18,10 +18,14 @@
   },
   "homepage": "https://github.com/SergiyKusiy/js#readme",
   "dependencies": {
-    "babel-eslint": "^10.1.0",
-    "eslint": "^8.0.1",
+    "@babel/eslint-parser": "^7.5.4",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-import": "^2.25.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/eslint-parser": "^7.15.8",
+    "eslint": "^8.0.1"
   }
 }
